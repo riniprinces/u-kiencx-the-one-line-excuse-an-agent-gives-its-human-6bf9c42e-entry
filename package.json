@@ -1,0 +1,1 @@
+{"devDependencies":{"tsx":"^4.23.15","typescript":"^5.9.3"},"name":"u-kiencx-the-one-line-excuse-an-agent-gives-its-human-6bf9c42e-entry","private":true,"scripts":{"start":"npx tsx main.ts"},"type":"module","version":"1.0.0"}
